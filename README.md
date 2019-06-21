@@ -1,15 +1,15 @@
-# fantastic-FMM
+# fantastic-FMM 
 
-17th june, Monday
-
-
-18th june, Tueday
+17th june, Monday  Database Updation
 
 
-19th june, Wednesday
+18th june, Tueday Database Updation
 
 
-20th june, Thursday
+19th june, Wednesday Database Created
 
 
-21st June, Friday
+20th june, Thursday Services Implementation
+
+
+21st June, Friday Services Implementation
