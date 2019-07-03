@@ -1,42 +1,32 @@
 {  
    "content":[  
       {  
+         "id":"asdf      ",
+         "assemblyType":"aaaa",
+         "assemblySubtype":"aaaa",
+         "attributeCode":null,
+         "attributeDesc":null,
+         "srlNo":null,
+         "srlNoDisp":null,
+         "department":null,
          "isActive":null,
+         "domainId":"bbbb",
          "createdBy":null,
          "createdOn":null,
          "updatedBy":null,
          "updatedOn":null
       },
       {  
+         "id":"WYUMY62   ",
+         "assemblyType":"aaaa",
+         "assemblySubtype":"aaaa",
+         "attributeCode":null,
+         "attributeDesc":null,
+         "srlNo":null,
+         "srlNoDisp":null,
+         "department":null,
          "isActive":null,
-         "createdBy":null,
-         "createdOn":null,
-         "updatedBy":null,
-         "updatedOn":null
-      },
-      {  
-         "isActive":null,
-         "createdBy":null,
-         "createdOn":null,
-         "updatedBy":null,
-         "updatedOn":null
-      },
-      {  
-         "isActive":null,
-         "createdBy":null,
-         "createdOn":null,
-         "updatedBy":null,
-         "updatedOn":null
-      },
-      {  
-         "isActive":null,
-         "createdBy":null,
-         "createdOn":null,
-         "updatedBy":null,
-         "updatedOn":null
-      },
-      {  
-         "isActive":null,
+         "domainId":"bbbb",
          "createdBy":null,
          "createdOn":null,
          "updatedBy":null,
@@ -54,18 +44,5 @@
       "pageNumber":0,
       "paged":true,
       "unpaged":false
-   },
-   "totalPages":1,
-   "totalElements":2,
-   "last":true,
-   "number":0,
-   "size":20,
-   "sort":{  
-      "sorted":false,
-      "unsorted":true,
-      "empty":true
-   },
-   "numberOfElements":2,
-   "first":true,
-   "empty":false
+   }
 }
